@@ -443,7 +443,7 @@ const Home = () => {
         <div>
           <img
             className="w-70 h-50 ml-20"
-            src="/cryptodevs/0.svg"
+            src="./cryptodevs/0.svg"
           />
         </div>
       </div>
